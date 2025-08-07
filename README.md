@@ -4,7 +4,7 @@
       <img
         src="https://img.shields.io/badge/%AD-Gabriel_Maia-24292E?logo=github&style=for-the-badge"
         alt="Gabriel Maia"
-        style="height: 9em"
+        style="height: 9.5em"
       />
     </td>
   </tr>
@@ -47,7 +47,7 @@
             <img src="https://skillicons.dev/icons?i=html,css,webpack&theme=dark" alt="WebDev"/>
           </td>
           <td>
-            <p align="center">WebDev, GHPages, Bundling</p>
+            <p align="center">WebDev | Bundling</p>
             <img align="center" src="https://img.shields.io/badge/░░████████████████░░-E34F26?style=flat-square"/>
           </td>
         </tr>
@@ -57,7 +57,7 @@
             <img src="https://skillicons.dev/icons?i=js,ts,nodejs&theme=dark" alt="BackEnd"/>
           </td>
           <td>
-            <p align="center">JavaScript, TypeScript, NodeJS</p>
+            <p align="center">JS | TS | Node</p>
             <img align="center" src="https://img.shields.io/badge/░░░██████████████░░░-yellow?style=flat-square"/>
           </td>
         </tr>
@@ -67,7 +67,7 @@
             <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow&theme=dark" alt="Python & ML"/>
           </td>
           <td>
-            <p align="center">Python 3, PyPy, Machine Learning</p>
+            <p align="center">Python | Machine Learning</p>
             <img align="center" src="https://img.shields.io/badge/░░░██████████████░░░-3776AB?style=flat-square"/>
           </td>
         </tr>
@@ -77,7 +77,7 @@
             <img align="center" src="https://skillicons.dev/icons?i=kotlin,scala,java&theme=dark" alt="JVM"/>
           </td>
           <td>
-            <p align="center">Kotlin, Scala 3, Java 11+, JVM</p>
+            <p align="center">Kotlin | Scala | JVM</p>
             <img align="center" src="https://img.shields.io/badge/░░░░░██████████░░░░░-7F52FF?style=flat-square"/>
           </td>
         </tr>
@@ -87,7 +87,7 @@
             <img src="https://skillicons.dev/icons?i=go,c,bash&theme=dark" alt="System"/>
           </td>
           <td>
-            <p align="center">GoLang, Sistemas, Low-Level</p>
+            <p align="center">Go | C| CMD/Bash</p>
             <img align="center" src="https://img.shields.io/badge/░░░░░░░██████░░░░░░░-00C8F0?style=flat-square"/>
           </td>
         </tr>
