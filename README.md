@@ -19,7 +19,7 @@
           <img align="center" src="https://img.shields.io/badge/░░████████████████░░-366E9D?style=flat-square" style="height: 1.2rem"/>
         </div>
         <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
-        <div align="center"><ul align="center"><li>Python 3.6+ | 2.7</li><li>Comput. Científica</li><li>Machine Learning</li></ul>Exp@^jan.2022</div>
+        <div align="center"><ul align="center"><li>Python 3.6+ | 2.7</li><li>Compt. Científica</li><li>Machine Learning</li></ul>Exp@^jan.2022</div>
       </td>
       <td>
         <div align="center">Desenvolvimento Web</div>
