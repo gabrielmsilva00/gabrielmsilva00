@@ -38,7 +38,7 @@
     <tr><td><td></td></td></tr>
     <tr>
       <td>
-        <div align="center">Ecossistema TypeScript</div>
+        <div align="center">Ecossistema JS|TS</div>
         <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
         <div align="center">
           <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=vite,ts,npm,nodejs,deno,bun&theme=dark&perline=3" alt="BackEnd"/>
