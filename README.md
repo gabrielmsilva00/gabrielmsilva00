@@ -3,7 +3,7 @@
   <img
     src="https://img.shields.io/badge/%AD-Gabriel_Maia-24292E?logo=github&style=for-the-badge"
     alt="Gabriel Maia"
-    style="max-height: 100%; width: 100vw; max-width: 100%;"
+    style="max-height: 100%; max-width: 100%; width: 100vw;"
   />
 
   <hr style="border: none" />
