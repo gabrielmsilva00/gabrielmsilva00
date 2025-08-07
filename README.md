@@ -48,7 +48,7 @@
           </td>
           <td>
             <p align="center">WebDev | Bundling</p>
-            <img align="center" src="https://img.shields.io/badge/░░████████████████░░-E34F26?style=flat-square"/>
+            <img align="center" src="https://img.shields.io/badge/░░████████████████░░-E34F26?style=flat-square" style="height: 1.5rem"/>
           </td>
         </tr>
         <tr><td colspan="2"></td></tr>
@@ -58,7 +58,7 @@
           </td>
           <td>
             <p align="center">JS | TS | Node</p>
-            <img align="center" src="https://img.shields.io/badge/░░░██████████████░░░-yellow?style=flat-square"/>
+            <img align="center" src="https://img.shields.io/badge/░░░██████████████░░░-yellow?style=flat-square" style="height: 1.5rem"/>
           </td>
         </tr>
         <tr><td colspan="2"></td></tr>
@@ -68,7 +68,7 @@
           </td>
           <td>
             <p align="center">Python | Machine Learning</p>
-            <img align="center" src="https://img.shields.io/badge/░░░██████████████░░░-3776AB?style=flat-square"/>
+            <img align="center" src="https://img.shields.io/badge/░░░██████████████░░░-3776AB?style=flat-square" style="height: 1.5rem"/>
           </td>
         </tr>
         <tr><td colspan="2"></td></tr>
@@ -78,7 +78,7 @@
           </td>
           <td>
             <p align="center">Kotlin | Scala | JVM</p>
-            <img align="center" src="https://img.shields.io/badge/░░░░░██████████░░░░░-7F52FF?style=flat-square"/>
+            <img align="center" src="https://img.shields.io/badge/░░░░░██████████░░░░░-7F52FF?style=flat-square" style="height: 1.5rem"/>
           </td>
         </tr>
         <tr><td colspan="2"></td></tr>
@@ -88,7 +88,7 @@
           </td>
           <td>
             <p align="center">Go | C| CMD/Bash</p>
-            <img align="center" src="https://img.shields.io/badge/░░░░░░░██████░░░░░░░-00C8F0?style=flat-square"/>
+            <img align="center" src="https://img.shields.io/badge/░░░░░░░██████░░░░░░░-00C8F0?style=flat-square" style="height: 1.5rem"/>
           </td>
         </tr>
         <tr><td colspan="2"></td></tr>
@@ -98,7 +98,7 @@
           </td>
           <td>
             <p align="center">Cloud Computing</p>
-            <img align="center" src="https://img.shields.io/badge/░░░░░░░░░██░░░░░░░░░-FF9900?style=flat-square"/>
+            <img align="center" src="https://img.shields.io/badge/░░░░░░░░░██░░░░░░░░░-FF9900?style=flat-square" style="height: 1.5rem"/>
           </td>
         </tr>
       </table>
