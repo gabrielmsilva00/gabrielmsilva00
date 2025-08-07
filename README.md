@@ -48,7 +48,7 @@
           <img align="center" src="https://img.shields.io/badge/░░░░░░████████░░░░░░-007ACC?style=flat-square" style="height: 1.2rem"/>
         </div>
         <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
-        <div align="center"><ul align="center"><li>NPM-Yarn</li><li>Node-Deno-Bun</li><li>Web Bundling</li></ul>Exp@^nov.2024</div>
+        <div align="center"><ul align="center"><li>Node-Deno-Bun</li><li>NPM-Yarn</li><li>Web Bundling</li></ul>Exp@^nov.2024</div>
       </td>
       <td>
         <div align="center">Linguagens para JVM</div>
