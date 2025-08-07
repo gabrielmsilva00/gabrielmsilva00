@@ -9,29 +9,59 @@
   <table width="100%" style="border-collapse: collapse; max-width: 28em;" align="center">
     <tr>
       <td>
-        <p align="center">WebDev | Bundling</p>
-        <img align="center" src="https://skillicons.dev/icons?i=html,css,webpack&theme=dark" alt="WebDev"/>
-        <img align="center" src="https://img.shields.io/badge/░░████████████████░░-E34F26?style=flat-square" style="height: 1.2rem"/>
+        <div align="center">Bibliotecas Python</div>
+        <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
+        <div align="center">
+          <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=numpy,python,matplotlib,tensorflow,scikitlearn,jupyter&theme=dark&perline=3" alt="Python & ML"/>
+        </div>
+        <div align="center"><b>Avançado</b></div>
+        <div align="center">
+          <img align="center" src="https://img.shields.io/badge/░░████████████████░░-366E9D?style=flat-square" style="height: 1.2rem"/>
+        </div>
+        <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
+        <div align="center"><ul align="center"><li>Python 3.6+ | 2.7</li><li>Comp. Científica</li><li>Machine Learning</li></ul>Experiência@^jan.2022</div>
       </td>
       <td>
-        <p align="center">JS | TS | Node</p>
-        <img align="center" src="https://skillicons.dev/icons?i=js,ts,nodejs&theme=dark" alt="BackEnd"/>
-        <img align="center" src="https://img.shields.io/badge/░░░██████████████░░░-yellow?style=flat-square" style="height: 1.2rem"/>
+        <div align="center">Desenvolvimento Web</div>
+        <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
+        <div align="center">
+          <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=css,html,js,markdown,sphinx,hugo&theme=dark&perline=3" alt="WebDev"/>
+        </div>
+        <div align="center"><b>Intermediário</b></div>
+        <div align="center">
+          <img align="center" src="https://img.shields.io/badge/░░░░░██████████░░░░░-E14E1D?style=flat-square" style="height: 1.2rem"/>
+        </div>
+        <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
+        <div align="center"><ul align="center"><li>HTML | CSS | JS</li><li>MarkDown | RST</li><li>Websites Estáticos</li></ul>Experiência@^out.2024</div>
+      </td>
+    </tr>
+    <tr><td><td></td></td></tr>
+    <tr>
+      <td>
+        <div align="center">Ecossistema TypeScript</div>
+        <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
+        <div align="center">
+          <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=vite,ts,expo,nodejs,deno,bun&theme=dark&perline=3" alt="BackEnd"/>
+        </div>
+        <div align="center"><b>Competente</b></div>
+        <div align="center">
+          <img align="center" src="https://img.shields.io/badge/░░░░░░████████░░░░░░-007ACC?style=flat-square" style="height: 1.2rem"/>
+        </div>
+        <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
+        <div align="center"><ul align="center"><li>NPM | pNPM | Yarn</li><li>Node | Deno | Bun</li><li>Web Bundling</li></ul>Experiência@^nov.2024</div>
       </td>
       <td>
-        <p align="center">Python | SKL | TF</p>
-        <img align="center" src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow&theme=dark" alt="Python & ML"/>
-        <img align="center" src="https://img.shields.io/badge/░░░██████████████░░░-3776AB?style=flat-square" style="height: 1.2rem"/>
-      </td>
-      <td>
-        <p align="center">Kotlin | Scala | JVM</p>
-        <img align="center" src="https://skillicons.dev/icons?i=kotlin,scala,java&theme=dark" alt="JVM"/>
-        <img align="center" src="https://img.shields.io/badge/░░░░░██████████░░░░░-7F52FF?style=flat-square" style="height: 1.2rem"/>
-      </td>
-      <td>
-        <p align="center">Go | C | CMD | Bash</p>
-        <img align="center" src="https://skillicons.dev/icons?i=go,c,bash&theme=dark" alt="System"/>
-        <img align="center" src="https://img.shields.io/badge/░░░░░░░██████░░░░░░░-00C8F0?style=flat-square" style="height: 1.2rem"/>
+        <div align="center">Linguagens para JVM</div>
+        <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
+        <div align="center">
+          <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,scala,jetpackcompose,androidstudio,android&theme=dark&perline=3" alt="JVM"/>
+        </div>
+        <div align="center"><b>Iniciante</b></div>
+        <div align="center">
+          <img align="center" src="https://img.shields.io/badge/░░░░░░░░████░░░░░░░░-B223E9?style=flat-square" style="height: 1.2rem"/>
+        </div>
+        <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
+        <div align="center"><ul align="center"><li>JVM | KMP | Android</li><li>Jetpack Compose</li><li>Kobweb (Web)</li></ul>Experiência@^mar.2025</div>
       </td>
     </tr>
   </table>
@@ -48,7 +78,7 @@
 
   <h1>Trajetória</h1>
   <ul style="list-style-type: none; padding: 0; margin: 0; text-align: center;">
-    <p style="margin-bottom: .5em;"><strong>↣ Início</strong> da jornada com <strong>Python 2, CMD e Bash</strong> em 2020.</p>
+    <p style="margin-bottom: .5em;"><strong>↣ Início</strong> da jornada com <strong>Python 2, CMD e Bash</strong> em 2022.</p>
     <p style="margin-bottom: .5em;"><strong>↣ Evolução</strong> gradual para <strong>Python 3, ES6 e TS</strong> a partir de 2024.</p>
     <p><strong>↣ Foco</strong> em soluções utilizando <strong>Prompt Engineering e MCP</strong>.</p>
   </ul>
