@@ -3,10 +3,10 @@
   <img
     src="https://img.shields.io/badge/%AD-Gabriel_Maia-24292E?logo=github&style=for-the-badge"
     alt="Gabriel Maia"
-    style="height: 9.5em; max-width: 100%;"
+    style="max-height: 100%; width: 100vw; max-width: 100%;"
   />
 
-  <hr style="border: none; height: 2em;" />
+  <hr style="border: none" />
 
   <!-- Expertise -->
   <h1>Expertise</h1>
@@ -72,7 +72,7 @@
     </tr>
   </table>
 
-  <hr style="border: none; height: 2em;" />
+  <hr style="border: none" />
 
   <!-- Projetos -->
   <h1>Projetos</h1>
@@ -85,23 +85,23 @@
     <a href="https://github.com/gabrielmsilva00/minifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=minifier&theme=dark" alt="Minifier" style="max-width: 100%; height: auto; display: block; margin: 0 auto;"/></a>
   </div>
 
-  <hr style="border: none; height: 2em;" />
+  <hr style="border: none" />
 
   <!-- Trajetória -->
   <h1>Trajetória</h1>
   <ul style="list-style-type: none; padding: 0; margin: 0; text-align: center;">
-    <li style="margin-bottom: .5em;"><strong>↣ Início</strong> da jornada com <strong>Python 2, CMD e Bash</strong> em 2020.</li>
-    <li style="margin-bottom: .5em;"><strong>↣ Evolução</strong> gradual para <strong>Python 3, ES6 e TS</strong> a partir de 2024.</li>
-    <li><strong>↣ Foco</strong> em soluções utilizando <strong>Prompt Engineering e MCP</strong>.</li>
+    <p style="margin-bottom: .5em;"><strong>↣ Início</strong> da jornada com <strong>Python 2, CMD e Bash</strong> em 2020.</p>
+    <p style="margin-bottom: .5em;"><strong>↣ Evolução</strong> gradual para <strong>Python 3, ES6 e TS</strong> a partir de 2024.</p>
+    <p><strong>↣ Foco</strong> em soluções utilizando <strong>Prompt Engineering e MCP</strong>.</p>
   </ul>
 
-  <hr style="border: none; height: 2em;" />
+  <hr style="border: none" />
 
   <!-- Ambições -->
   <h1>Ambições</h1>
   <ul style="list-style-type: none; padding: 0; margin: 0; text-align: center;">
-    <li style="margin-bottom: .5em;"><strong>⊕ Aprender</strong> novas tecnologias e processos.</li>
-    <li style="margin-bottom: .5em;"><strong>⊕ Expandir</strong> minha marca no mundo da tecnologia.</li>
-    <li><strong>⊕ Reconhecer</strong> padrões e tendências rumando ao sucesso.</li>
+    <p style="margin-bottom: .5em;"><strong>⊕ Aprender</strong> novas tecnologias e processos.</p>
+    <p style="margin-bottom: .5em;"><strong>⊕ Expandir</strong> minha marca no mundo da tecnologia.</p>
+    <p><strong>⊕ Reconhecer</strong> padrões e tendências rumando ao sucesso.</p>
   </ul>
 </div>
