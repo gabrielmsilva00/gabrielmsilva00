@@ -19,7 +19,7 @@
           <img align="center" src="https://img.shields.io/badge/░░████████████████░░-366E9D?style=flat-square" style="height: 1.2rem"/>
         </div>
         <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
-        <div align="center"><ul align="center"><li>Python 3.6+|2.7</li><li>Comp. Científica</li><li>Machine Learning</li></ul>Exp@^jan.2022</div>
+        <div align="center"><ul align="center"><li>Python 3.6+-2.7</li><li>Comp. Científica</li><li>Machine Learning</li></ul>Exp@^jan.2022</div>
       </td>
       <td>
         <div align="center">Desenvolvimento Web</div>
@@ -32,13 +32,13 @@
           <img align="center" src="https://img.shields.io/badge/░░░░░██████████░░░░░-E14E1D?style=flat-square" style="height: 1.2rem"/>
         </div>
         <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
-        <div align="center"><ul align="center"><li>HTML|CSS|JS</li><li>MarkDown|RST</li><li>gh-pages</li></ul>Exp@^out.2024</div>
+        <div align="center"><ul align="center"><li>HTML-CSS-JS</li><li>MarkDown-RST</li><li>GH Pages</li></ul>Exp@^out.2024</div>
       </td>
     </tr>
     <tr><td><td></td></td></tr>
     <tr>
       <td>
-        <div align="center">Ecossistema JS|TS</div>
+        <div align="center">Ecossistema JS-TS</div>
         <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
         <div align="center">
           <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=vite,ts,npm,nodejs,deno,bun&theme=dark&perline=3" alt="BackEnd"/>
@@ -48,7 +48,7 @@
           <img align="center" src="https://img.shields.io/badge/░░░░░░████████░░░░░░-007ACC?style=flat-square" style="height: 1.2rem"/>
         </div>
         <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
-        <div align="center"><ul align="center"><li>NPM|Yarn</li><li>Node|Deno|Bun</li><li>Web Bundling</li></ul>Exp@^nov.2024</div>
+        <div align="center"><ul align="center"><li>NPM-Yarn</li><li>Node-Deno-Bun</li><li>Web Bundling</li></ul>Exp@^nov.2024</div>
       </td>
       <td>
         <div align="center">Linguagens para JVM</div>
@@ -61,7 +61,7 @@
           <img align="center" src="https://img.shields.io/badge/░░░░░░░░████░░░░░░░░-B223E9?style=flat-square" style="height: 1.2rem"/>
         </div>
         <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
-        <div align="center"><ul align="center"><li>JVM | KMP</li><li>Compose</li><li>Kobweb (Web)</li></ul>Exp@^mar.2025</div>
+        <div align="center"><ul align="center"><li>JVM-KMP</li><li>Compose</li><li>Kobweb</li></ul>Exp@^mar.2025</div>
       </td>
     </tr>
   </table>
