@@ -48,7 +48,7 @@
           </td>
           <td>
             <p align="center">WebDev, GHPages, Bundling</p>
-            <img align="center" src="https://img.shields.io/badge/░░████████████████████████░░-E34F26?style=flat-square"/>
+            <img align="center" src="https://img.shields.io/badge/░░████████████████░░-E34F26?style=flat-square"/>
           </td>
         </tr>
         <tr><td colspan="2"></td></tr>
@@ -58,7 +58,7 @@
           </td>
           <td>
             <p align="center">JavaScript, TypeScript, NodeJS</p>
-            <img align="center" src="https://img.shields.io/badge/░░░░████████████████████░░░░-yellow?style=flat-square"/>
+            <img align="center" src="https://img.shields.io/badge/░░░██████████████░░░-yellow?style=flat-square"/>
           </td>
         </tr>
         <tr><td colspan="2"></td></tr>
@@ -68,7 +68,7 @@
           </td>
           <td>
             <p align="center">Python 3, PyPy, Machine Learning</p>
-            <img align="center" src="https://img.shields.io/badge/░░░░████████████████████░░░░-3776AB?style=flat-square"/>
+            <img align="center" src="https://img.shields.io/badge/░░░██████████████░░░-3776AB?style=flat-square"/>
           </td>
         </tr>
         <tr><td colspan="2"></td></tr>
@@ -78,7 +78,7 @@
           </td>
           <td>
             <p align="center">Kotlin, Scala 3, Java 11+, JVM</p>
-            <img align="center" src="https://img.shields.io/badge/░░░░░░░░░░████████░░░░░░░░░░-7F52FF?style=flat-square"/>
+            <img align="center" src="https://img.shields.io/badge/░░░░░██████████░░░░░-7F52FF?style=flat-square"/>
           </td>
         </tr>
         <tr><td colspan="2"></td></tr>
@@ -88,7 +88,7 @@
           </td>
           <td>
             <p align="center">GoLang, Sistemas, Low-Level</p>
-            <img src="https://img.shields.io/badge/░░░░░░░░░░░██████░░░░░░░░░░░-00C8F0?style=flat-square"/>
+            <img align="center" src="https://img.shields.io/badge/░░░░░░░██████░░░░░░░-00C8F0?style=flat-square"/>
           </td>
         </tr>
         <tr><td colspan="2"></td></tr>
@@ -98,7 +98,7 @@
           </td>
           <td>
             <p align="center">Cloud Computing</p>
-            <img src="https://img.shields.io/badge/░░░░░░░░░░░░████░░░░░░░░░░░░-FF9900?style=flat-square"/>
+            <img align="center" src="https://img.shields.io/badge/░░░░░░░░░██░░░░░░░░░-FF9900?style=flat-square"/>
           </td>
         </tr>
       </table>
