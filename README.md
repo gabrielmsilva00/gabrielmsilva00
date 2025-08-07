@@ -19,7 +19,7 @@
           <img align="center" src="https://img.shields.io/badge/░░████████████████░░-366E9D?style=flat-square" style="height: 1.2rem"/>
         </div>
         <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
-        <div align="center"><ul align="center"><li>Python 3.6+ | 2.7</li><li>Comp. Científica</li><li>Machine Learning</li></ul>Exp@^jan.2022</div>
+        <div align="center"><ul align="center"><li>Python 3.6+ | 2.7</li><li>Comput. Científica</li><li>Machine Learning</li></ul>Exp@^jan.2022</div>
       </td>
       <td>
         <div align="center">Desenvolvimento Web</div>
@@ -48,7 +48,7 @@
           <img align="center" src="https://img.shields.io/badge/░░░░░░████████░░░░░░-007ACC?style=flat-square" style="height: 1.2rem"/>
         </div>
         <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
-        <div align="center"><ul align="center"><li>NPM | Yarn</li><li>Node | Deno | Bun</li><li>Web Bundling</li></ul>Exp@^nov.2024</div>
+        <div align="center"><ul align="center"><li>Node | Deno | Bun</li><li>Web Bundling</li><li>NPM | Yarn</li></ul>Exp@^nov.2024</div>
       </td>
       <td>
         <div align="center">Linguagens para JVM</div>
