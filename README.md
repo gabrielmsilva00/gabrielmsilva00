@@ -67,28 +67,38 @@
   </table>
 
   <h1>Projetos</h1>
-  <div>
-    <a href="https://github.com/gabrielmsilva00/meuvitae"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=meuvitae&theme=dark" alt="MeuVitae" style="max-width: 100%; height: auto; display: block;"/></a>
-    <a href="https://github.com/gabrielmsilva00/redes-neurais-mlp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=redes-neurais-mlp&theme=dark" alt="Redes Neurais" style="max-width: 100%; height: auto; display: block;"/></a>
-    <a href="https://github.com/gabrielmsilva00/pureset"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=pureset&theme=dark" alt="PureSet" style="max-width: 100%; height: auto; display: block;"/></a>
-    <a href="https://github.com/gabrielmsilva00/plaintools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=plaintools&theme=dark" alt="PlainTools" style="max-width: 100%; height: auto; display: block; "/></a>
-    <a href="https://github.com/gabrielmsilva00/mdparser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=mdparser&theme=dark" alt="MDParser" style="max-width: 100%; height: auto; display: block;"/></a>
-    <a href="https://github.com/gabrielmsilva00/minifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=minifier&theme=dark" alt="Minifier" style="max-width: 100%; height: auto; display: block;"/></a>
+  <div align="center">
+    <a href="https://github.com/gabrielmsilva00"><img src="https://github-readme-stats.vercel.app/api?username=gabrielmsilva00&theme=transparent&show_icons=true&hide_title=true&hide_rank=true&hide=prs,issues,contribs" alt="Top Langs" style="max-width: 100%; height: auto; display: block; width: 15vw"/></a>
+  </div>
+  <div align="center">
+    <a href="https://github.com/gabrielmsilva00?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmsilva00&theme=transparent&&show_icons=true&hide_title=true&langs_count=4" alt="Top Langs" style="max-width: 100%; height: auto; display: block; width: 15vw"/></a>
+  </div>
+  <div align="center">
+    <a href="https://github.com/gabrielmsilva00/meuvitae"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=meuvitae&theme=transparent" alt="MeuVitae" style="max-width: 100%; height: auto; display: block;"/></a>
+    <a href="https://github.com/gabrielmsilva00/redes-neurais-mlp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=redes-neurais-mlp&theme=transparent" alt="Redes Neurais" style="max-width: 100%; height: auto; display: block;"/></a>
+    <a href="https://github.com/gabrielmsilva00/pureset"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=pureset&theme=transparent" alt="PureSet" style="max-width: 100%; height: auto; display: block;"/></a>
+    <a href="https://github.com/gabrielmsilva00/plaintools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=plaintools&theme=transparent" alt="PlainTools" style="max-width: 100%; height: auto; display: block; "/></a>
+    <a href="https://github.com/gabrielmsilva00/mdparser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=mdparser&theme=transparent" alt="MDParser" style="max-width: 100%; height: auto; display: block;"/></a>
+    <a href="https://github.com/gabrielmsilva00/minifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=minifier&theme=transparent" alt="Minifier" style="max-width: 100%; height: auto; display: block;"/></a>
   </div>
 
-  <h1>Trajetória</h1>
+  <details>
+  <summary><h2>Sobre</h2></summary>
+  <hr>
+  <h3>Trajetória</h3>
   <ul style="list-style-type: none; padding: 0; margin: 0; text-align: center;">
     <p style="margin-bottom: .5em;"><strong>↣ Início</strong> da jornada com <strong>Python 2, CMD e Bash</strong> em 2022.</p>
     <p style="margin-bottom: .5em;"><strong>↣ Evolução</strong> gradual para <strong>Python 3, ES6 e TS</strong> a partir de 2024.</p>
     <p><strong>↣ Foco</strong> em soluções utilizando <strong>Prompt Engineering e MCP</strong>.</p>
   </ul>
-
-  <h1>Objetivos</h1>
+  <hr>
+  <h3>Objetivos</h3>
   <ul style="list-style-type: none; padding: 0; margin: 0; text-align: center;">
     <p style="margin-bottom: .5em;"><strong>⊕ Aprender</strong> novas tecnologias e processos.</p>
     <p style="margin-bottom: .5em;"><strong>⊕ Expandir</strong> minha marca no mundo da tecnologia.</p>
     <p><strong>⊕ Reconhecer</strong> padrões e tendências levando ao sucesso.</p>
   </ul>
+  </details>
 
   <hr><br>
   <div align="center">
