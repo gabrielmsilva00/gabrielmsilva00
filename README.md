@@ -4,7 +4,7 @@
       <img
         src="https://img.shields.io/badge/%AD-Gabriel_Maia-24292E?logo=github&style=for-the-badge"
         alt="Gabriel Maia"
-        style="height: 10em"
+        style="height: 9em"
       />
     </td>
   </tr>
