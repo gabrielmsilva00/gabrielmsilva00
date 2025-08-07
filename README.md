@@ -83,10 +83,10 @@
     <p><strong>↣ Foco</strong> em soluções utilizando <strong>Prompt Engineering e MCP</strong>.</p>
   </ul>
 
-  <h1>Ambições</h1>
+  <h1>Objetivos</h1>
   <ul style="list-style-type: none; padding: 0; margin: 0; text-align: center;">
     <p style="margin-bottom: .5em;"><strong>⊕ Aprender</strong> novas tecnologias e processos.</p>
     <p style="margin-bottom: .5em;"><strong>⊕ Expandir</strong> minha marca no mundo da tecnologia.</p>
-    <p><strong>⊕ Reconhecer</strong> padrões e tendências rumando ao sucesso.</p>
+    <p><strong>⊕ Reconhecer</strong> padrões e tendências levando ao sucesso.</p>
   </ul>
 </div>
