@@ -28,7 +28,7 @@
       </div>
       <ul>
         <li><strong>Aprender</strong> novas tecnologias e processos através de desafios.</li>
-        <li><strong>Expandir</strong> minha marca no mundo da tecnologia a cada dia.</li>
+        <li><strong>Expandir</strong> minha marca no mundo da tecnologia.</li>
         <li><strong>Reconhecer</strong> padrões e tendências rumando ao sucesso.</li><br/>
       </ul>
     </td>
