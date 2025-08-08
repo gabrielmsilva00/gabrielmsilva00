@@ -102,6 +102,6 @@
 
   <hr><br>
   <div align="center">
-    <img align="center" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DEtc%2FUTC&query=%24.year&prefix=Copyright%20%C2%A9%202025-&suffix=%20Gabriel%20Maia%20Pereira%20da%20Silva&label=&color=151B23&style=for-the-badge" alt="Copyright" style="max-height: 100%; max-width: 100%; width: 80vw;"/>
+    <img align="center" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DEtc%2FUTC&query=%24.year&prefix=Copyright%20%C2%A9&suffix=%20Gabriel%20Maia%20Pereira%20da%20Silva&label=&color=151B23&style=for-the-badge" alt="Copyright" style="max-height: 100%; max-width: 100%; width: 80vw;"/>
   </div>
 </div>
