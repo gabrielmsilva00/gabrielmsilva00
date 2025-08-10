@@ -51,17 +51,17 @@
         <div align="center"><ul align="center"><li>Node | Deno | Bun</li><li>Web Bundling</li><li>NPM | Yarn</li></ul>Exp@^nov.2024</div>
       </td>
       <td>
-        <div align="center">Linguagens para JVM</div>
+        <div align="center">JVM | .NET</div>
         <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
         <div align="center">
-          <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,scala,jetpackcompose,androidstudio,android&theme=dark&perline=3" alt="JVM"/>
+          <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,scala,jetpackcompose,cs,blazor&theme=dark&perline=3" alt="JVM"/>
         </div>
         <div align="center"><b>Iniciante</b></div>
         <div align="center">
           <img align="center" src="https://img.shields.io/badge/░░░░░░░░████░░░░░░░░-B223E9?style=flat-square" style="height: 1.2rem"/>
         </div>
         <div align="center">‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</div>
-        <div align="center"><ul align="center"><li>JVM | KMP</li><li>Compose</li><li>Kobweb</li></ul>Exp@^mar.2025</div>
+        <div align="center"><ul align="center"><li>Kotlin MP</li><li>Compose</li><li>C# | F#</li></ul>Exp@^mar.2025</div>
       </td>
     </tr>
   </table>
