@@ -1,7 +1,7 @@
 <h1>
   <img src="./assets/header.svg" style="width: 100%;"/>
 </h1>
-<b align="center">Icons by <a href=https://github.com/syvixor/skills-icons>@syvixor</a></b>
+<ul align="center">Icons by <a href=https://github.com/syvixor/skills-icons>@syvixor</a></ul>
 <h1>
   <img
     width="48.75%"
