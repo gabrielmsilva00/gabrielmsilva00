@@ -31,27 +31,27 @@
 <h1>
   <img
     width="48.75%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=meuvitae&theme=transparent"
+    src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/meuvitae&theme=transparent"
   />
   <img
     width="48.75%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=redes-neurais-mlp&theme=transparent"
+    src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/redes-neurais-mlp&theme=transparent"
   />
   <img
     width="48.75%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=pureset&theme=transparent"
+    src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/pureset&theme=transparent"
   />
   <img
     width="48.75%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=plaintools&theme=transparent"
+    src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/plaintools&theme=transparent"
   />
   <img 
     width="48.75%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=mdparser&theme=transparent"
+    src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/mdparser&theme=transparent"
   />
   <img
     width="48.75%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=minifier&theme=transparent"
+    src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/minifier&theme=transparent"
   />
 </h1>
 <img
