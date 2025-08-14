@@ -27,7 +27,7 @@
   <rect x="1" y="1" width="510" height="1022" rx="32" class="card" stroke-width="2"/>
   <rect x="1" y="1" rx="32" width="510" height="80" class="panel" stroke-width="2"/>
 
-  <rect x="2" y="208" width="508" height="312" class="panel" fill="#fff"/>
+  <rect x="2" y="208" width="508" height="312" class="panel"/>
   <rect x="2" y="640" width="508" height="96" class="panel"/>
   <rect x="2" y="832" width="508" height="96" class="panel"/>
 
