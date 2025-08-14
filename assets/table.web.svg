@@ -62,5 +62,5 @@
     <tspan x="256" y="976">Roteamento</tspan>
   </text>
 
-  <image x="32" y="208" width="448" height="312" href="web.svg"/>
+  <image x="32" y="208" width="448" height="312" href="./web.svg"/>
 </svg>

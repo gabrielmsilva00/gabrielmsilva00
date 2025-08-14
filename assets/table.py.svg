@@ -62,5 +62,5 @@
     <tspan x="256" y="976">Contribuições PyPi</tspan>
   </text>
 
-  <image x="32" y="208" width="448" height="312" href="py.svg"/>
+  <image x="32" y="208" width="448" height="312" href="./py.svg"/>
 </svg>
