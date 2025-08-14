@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="512" height="1024" viewBox="0 0 512 1024">
+  <style>
+    :root {
+      --bg: #0d1117;
+      --panel: #161b22;
+      --stroke: #30363d;
+      --text: #e6edf3;
+      --accent: #00B4E0;
+    }
+    text { font-family: monospace; fill: var(--text); text-anchor: middle; dominant-baseline: middle;  filter: url("#shadow"); font-weight: 600; }
+    .card { fill: var(--bg); stroke: var(--stroke); }
+    .panel { fill: var(--panel); stroke: var(--stroke); }
+    .divider { stroke: var(--stroke); stroke-width: 1; }
+    .zebra { fill: var(--panel); }
+    .seg { fill: var(--panel); }
+    .seg.filled { fill: var(--accent); }
+    .comp { font-size: 32px; }
+  </style>
+
+  <defs>
+    <rect id="seg" width="32" height="96"/>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feOffset result="offOut" in="SourceAlpha" dx="4" dy="4" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="2" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+    </filter>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="511" height="1023" rx="16" ry="16" class="card" stroke-width="1"/>
+  <rect x="0.5" y="0.5" rx="16" ry="16" width="511" height="80" class="panel" stroke-width="1"/>
+
+  <rect x="0" y="640" width="512" height="96" class="zebra"/>
+  <rect x="0" y="832" width="512" height="96" class="zebra"/>
+  <line x1="0" y1="640.5" x2="512" y2="640.5" class="divider"/>
+  <line x1="0" y1="736.5" x2="512" y2="736.5" class="divider"/>
+  <line x1="0" y1="832.5" x2="512" y2="832.5" class="divider"/>
+  <line x1="0" y1="928.5" x2="512" y2="928.5" class="divider"/>
+
+  <g transform="translate(30,98)">
+    <use href="#seg" x="0"   y="0" class="seg"/>
+    <use href="#seg" x="38"  y="0" class="seg"/>
+    <use href="#seg" x="76"  y="0" class="seg"/>
+    <use href="#seg" x="114" y="0" class="seg filled"/>
+    <use href="#seg" x="152" y="0" class="seg filled"/>
+    <use href="#seg" x="190" y="0" class="seg filled"/>
+    <use href="#seg" x="228" y="0" class="seg filled"/>
+    <use href="#seg" x="266" y="0" class="seg filled"/>
+    <use href="#seg" x="304" y="0" class="seg filled"/>
+    <use href="#seg" x="342" y="0" class="seg"/>
+    <use href="#seg" x="380" y="0" class="seg"/>
+    <use href="#seg" x="418" y="0" class="seg"/>
+  </g>
+
+  <image x="24" y="128" width="464" height="312" href="https://go-skill-icons.vercel.app/api/icons?i=c,go,cpp&amp;theme=dark&amp;perline=3" />
+  <image x="24" y="288" width="464" height="312" href="https://go-skill-icons.vercel.app/api/icons?i=bash,linux,powershell&amp;theme=dark&amp;perline=3" />
+
+  <text font-size="64" x="256" y="46">Sistemas</text>
+  <text font-size="40" x="256" y="148">Competente</text>
+  <text font-size="32" >
+    <tspan x="256" y="560">Experiência Inicial:</tspan>
+    <tspan x="256" y="604">Dezembro de 2024</tspan>
+
+    <tspan x="56" y="688">•</tspan>
+    <tspan x="256" y="688">Supervisão e Suporte</tspan>
+    <tspan x="56" y="784">•</tspan>
+    <tspan x="256" y="784">Integração de Redes</tspan>
+    <tspan x="56" y="880">•</tspan>
+    <tspan x="256" y="880">Automação</tspan>
+    <tspan x="56" y="976">•</tspan>
+    <tspan x="256" y="976">Registros</tspan>
+  </text>
+</svg>
