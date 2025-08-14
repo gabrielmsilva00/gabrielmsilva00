@@ -24,12 +24,6 @@
 
 <h1>
   <img
-    style="width: 100%;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmsilva00&layout=compact&hide_title=true&theme=transparent&hide_border=false&langs_count=4"
-  />
-</h1>
-<h1>
-  <img
     width="48.75%"
     src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/meuvitae&theme=transparent"
   />
