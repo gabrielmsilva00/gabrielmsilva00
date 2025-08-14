@@ -1,29 +1,35 @@
-<img src="./assets/header.svg" alt="Gabriel Maia" style="width: 100%;"/>
+<p>
+  <img src="./assets/header.svg" alt="Gabriel Maia" style="width: 100%;"/>
+</p>
 
-<img
-  alt="Experiência em Python"
-  align="left"
-  style="width: 47.5%;"
-  src="./assets/table.py.svg"
-/>
-<img
-  alt="Experiência em WebDev"
-  align="right"
-  style="width: 47.5%;"
-  src="./assets/table.web.svg"
-/>
-<img
-  alt="Experiência em Sistemas"
-  align="left"
-  style="width: 47.5%;"
-  src="./assets/table.sys.svg"
-/>
-<img
-  alt="Experiência em JVM & .NET"
-  align="right"
-  style="width: 47.5%;"
-  src="./assets/table.jvm.svg"
-/>
+<p>
+  <img
+    alt="Experiência em Python"
+    align="left"
+    style="width: 45%;"
+    src="./assets/table.py.svg"
+  />
+  <img
+    alt="Experiência em WebDev"
+    align="right"
+    style="width: 45%;"
+    src="./assets/table.web.svg"
+  />
+</p>
+<p>
+  <img
+    alt="Experiência em Sistemas"
+    align="left"
+    style="width: 45%;"
+    src="./assets/table.sys.svg"
+  />
+  <img
+    alt="Experiência em JVM & .NET"
+    align="right"
+    style="width: 45%;"
+    src="./assets/table.jvm.svg"
+  />
+</p>
 
 <img
   alt="Top Langs"
@@ -35,7 +41,7 @@
   <img
     alt="MeuVitae"
     align="left"
-    style="width: 47.5%;"
+    style="width: 45%;"
     src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=meuvitae&theme=transparent"
   />
 </a>
@@ -43,7 +49,7 @@
   <img
     alt="Redes Neurais"
     align="right"
-    style="width: 47.5%;"
+    style="width: 45%;"
     src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=redes-neurais-mlp&theme=transparent"
   />
 </a>
@@ -51,7 +57,7 @@
   <img
     alt="PureSet"
     align="left"
-    style="width: 47.5%;"
+    style="width: 45%;"
     src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=pureset&theme=transparent"
   />
 </a>
@@ -59,7 +65,7 @@
   <img
     alt="PlainTools"
     align="right"
-    style="width: 47.5%;"
+    style="width: 45%;"
     src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=plaintools&theme=transparent"
   />
 </a>
@@ -67,7 +73,7 @@
   <img 
     alt="MDParser"
     align="left"
-    style="width: 47.5%;"
+    style="width: 45%;"
     src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=mdparser&theme=transparent"
   />
 </a>
@@ -75,7 +81,7 @@
   <img
     alt="Minifier"
     align="right"
-    style="width: 47.5%;"
+    style="width: 45%;"
     src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=minifier&theme=transparent"
   />
 </a>
