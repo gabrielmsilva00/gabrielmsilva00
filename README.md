@@ -18,7 +18,7 @@
     width="48.75%"
     src="./assets/table.jvm.svg"
   />
-  <ul align="center">Icons by <a href=https://github.com/syvixor/skills-icons>@syvixor</a>&#160;</ul>
+  <ul align="center">Icons by <a href=https://github.com/syvixor/skills-icons>@syvixor </a>&#160; </ul>
 </h1>
 
 <h1>
