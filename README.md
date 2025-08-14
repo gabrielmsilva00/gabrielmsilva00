@@ -29,9 +29,13 @@
       src="./assets/table.jvm.svg"
     />
   </a>
-  <a align="center" href=https://github.com/syvixor/skills-icons>
-    Icons by @syvixor&#160; ✨
-  </a>
+  <ul align="center">
+    Icons by
+      <a href=https://github.com/syvixor/skills-icons>
+        @syvixor
+      </a>
+    &#160; ✨
+  </ul>
 </h1>
 
 <h1>
