@@ -32,9 +32,9 @@
   <ul align="center">
     Icons by
       <a href=https://github.com/syvixor/skills-icons>
-        @syvixor
+        @syvixor ✨
       </a>
-    &#160; ✨
+    &#160;&#160;
   </ul>
 </h1>
 
