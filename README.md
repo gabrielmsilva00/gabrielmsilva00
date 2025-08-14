@@ -41,5 +41,5 @@
     <a href="https://github.com/gabrielmsilva00/minifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=minifier&theme=transparent" alt="Minifier"/></a>
   </div>
   <hr><br>
-  <img align="center" src="./copyright.svg" alt="Copyright" style="width: 100%;"/>
+  <img align="center" src="./assets/copyright.svg" alt="Copyright" style="width: 100%;"/>
 </div>
