@@ -1,24 +1,41 @@
 <h1>
-  <img src="./assets/header.svg" style="width: 100%;"/>
+  <a href="#">
+    <img src="./assets/header.svg" style="width: 100%;"/>
+  </a>
 </h1>
+
 <h1>
-  <img
-    width="48.75%"
-    src="./assets/table.py.svg"
-  />
-  <img
-    width="48.75%"
-    src="./assets/table.web.svg"
-  />
-  <img
-    width="48.75%"
-    src="./assets/table.sys.svg"
-  />
-  <img
-    width="48.75%"
-    src="./assets/table.jvm.svg"
-  />
-  <ul align="center">Icons by <a href=https://github.com/syvixor/skills-icons>@syvixor </a>&#160; ✨</ul>
+  <a href="#">
+    <img
+      width="48.75%"
+      src="./assets/table.py.svg"
+    />
+  </a>
+  <a href="#">
+    <img
+      width="48.75%"
+      src="./assets/table.web.svg"
+    />
+  </a>
+  <a href="#">
+    <img
+      width="48.75%"
+      src="./assets/table.sys.svg"
+    />
+  </a>
+  <a href="#">
+    <img
+      width="48.75%"
+      src="./assets/table.jvm.svg"
+    />
+  </a>
+  <ul align="center">
+    Icons by
+      <a href=https://github.com/syvixor/skills-icons>
+        @syvixor
+      </a>
+    &#160; ✨
+  </ul>
 </h1>
 
 <h1>
@@ -47,7 +64,10 @@
     />
   </a>
 </h1>
-<img
-  style="width: 100%;"
-  src="./assets/copyright.svg"
-/>
+
+<a href="#">
+  <img
+    style="width: 100%;"
+    src="./assets/copyright.svg"
+  />
+</a>
