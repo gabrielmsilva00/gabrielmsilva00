@@ -15,7 +15,7 @@
       style="width: 47.5%;"
     />
   </div>
-  <br>
+  <hr><br>
   <div align="center">
     <img
       align="left"
