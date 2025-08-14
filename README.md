@@ -27,7 +27,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmsilva00&layout=compact&hide_title=true&theme=transparent&hide_border=false&langs_count=4"
   />
 </h1>
-
+<h6 align="center">Icons by <a href=https://github.com/syvixor/skills-icons>@syvixor</a></h6>
 <h1>
   <img
     width="48.75%"
