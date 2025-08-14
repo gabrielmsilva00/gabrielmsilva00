@@ -5,22 +5,22 @@
 <h1>
   <img
     alt="Experiência em Python"
-    width="49.55%"
+    width="49%"
     src="./assets/table.py.svg"
   />
   <img
     alt="Experiência em WebDev"
-    width="49.55%"
+    width="49%"
     src="./assets/table.web.svg"
   />
   <img
     alt="Experiência em Sistemas"
-    width="49.55%"
+    width="49%"
     src="./assets/table.sys.svg"
   />
   <img
     alt="Experiência em JVM & .NET"
-    width="49.55%"
+    width="49%"
     src="./assets/table.jvm.svg"
   />
 </h1>
@@ -36,32 +36,32 @@
 <h1>
   <img
     alt="MeuVitae"
-    width="49.55%"
+    width="49%"
     src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=meuvitae&theme=transparent"
   />
   <img
     alt="Redes Neurais"
-    width="49.55%"
+    width="49%"
     src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=redes-neurais-mlp&theme=transparent"
   />
   <img
     alt="PureSet"
-    width="49.55%"
+    width="49%"
     src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=pureset&theme=transparent"
   />
   <img
     alt="PlainTools"
-    width="49.55%"
+    width="49%"
     src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=plaintools&theme=transparent"
   />
   <img 
     alt="MDParser"
-    width="49.55%"
+    width="49%"
     src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=mdparser&theme=transparent"
   />
   <img
     alt="Minifier"
-    width="49.55%"
+    width="49%"
     src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmsilva00&repo=minifier&theme=transparent"
   />
 </h1>
