@@ -62,11 +62,11 @@
     <tspan x="256" y="604">Março de 2025</tspan>
 
     <tspan x="56" y="688">•</tspan>
-    <tspan x="256" y="688">Java SE SDK 8⁺</tspan>
+    <tspan x="256" y="688">Java SE SDK 8+</tspan>
     <tspan x="56" y="784">•</tspan>
     <tspan x="256" y="784">Groovy|Kotlin|Scala</tspan>
     <tspan x="56" y="880">•</tspan>
-    <tspan x="256" y="880">.NET 8.0⁺</tspan>
+    <tspan x="256" y="880">.NET 8.0+</tspan>
     <tspan x="56" y="976">•</tspan>
     <tspan x="256" y="976">Blazor|Razor Pages</tspan>
   </text>
