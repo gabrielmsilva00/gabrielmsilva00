@@ -22,14 +22,8 @@
 </h1>
 
 <h1>
-  <img
-    width="48.75%"
-    src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/plaintools&theme=transparent"
-  />
-  <img
-    width="48.75%"
-    src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/pureset&theme=transparent"
-  />
+  [<img width="48.75%"src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/plaintools&theme=transparent"/>](https://www.github.com/gabrielmsilva00/plaintools)
+  [<img width="48.75%"src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/pureset&theme=transparent"/>](https://www.github.com/gabrielmsilva00/pureset)
   <img
     width="48.75%"
     src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/redes-neurais-mlp&theme=transparent"
