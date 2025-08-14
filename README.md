@@ -1,35 +1,30 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Gabriel Maia" style="width: 120%;"/>
+  <img src="./assets/header.svg" alt="Gabriel Maia" style="width: 100%;"/>
 
-  <div align="center">
-    <img
-      align="left"
-      src="./assets/table.py.svg"
-      alt="Experiência em Python"
-      style="width: 47.5%;"
-    />
-    <img
-      align="right"
-      src="./assets/table.web.svg"
-      alt="Experiência em WebDev"
-      style="width: 47.5%;"
-    />
-  </div>
-  <hr><br>
-  <div align="center">
-    <img
-      align="left"
-      src="./assets/table.sys.svg"
-      alt="Experiência em Sistemas"
-      style="width: 47.5%;"
-    />
-    <img
-      align="right"
-      src="./assets/table.jvm.svg"
-      alt="Experiência em JVM & .NET"
-      style="width: 47.5%;"
-    />
-  </div>
+  <img
+    align="left"
+    src="./assets/table.py.svg"
+    alt="Experiência em Python"
+    style="width: 48.75%;"
+  />
+  <img
+    align="right"
+    src="./assets/table.web.svg"
+    alt="Experiência em WebDev"
+    style="width: 48.75%;"
+  />
+  <img
+    align="left"
+    src="./assets/table.sys.svg"
+    alt="Experiência em Sistemas"
+    style="width: 48.75%;"
+  />
+  <img
+    align="right"
+    src="./assets/table.jvm.svg"
+    alt="Experiência em JVM & .NET"
+    style="width: 48.75%;"
+  />
 
   <div align="center">
     <a href="https://github.com/gabrielmsilva00"><img src="https://github-readme-stats.vercel.app/api?username=gabrielmsilva00&theme=transparent&show_icons=true&hide_title=true&hide_rank=true&hide=prs,issues,contribs" alt="Top Langs" style="max-width: 100%; height: auto; display: block; width: 15vw"/></a>
