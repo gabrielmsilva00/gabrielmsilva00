@@ -6,7 +6,7 @@
       --panel: #161b22;
       --stroke: #30363d;
       --text: #e6edf3;
-      --accent: #E14E1D;
+      --accent: #e04020;
     }
     text { font-family: monospace; fill: var(--text); text-anchor: middle; dominant-baseline: middle;  filter: url("#shadow"); font-weight: 600; }
     .card { fill: var(--bg); stroke: var(--stroke); }
@@ -30,8 +30,6 @@
   <rect x="2" y="208" width="508" height="312" class="panel" fill="#fff"/>
   <rect x="2" y="640" width="508" height="96" class="panel"/>
   <rect x="2" y="832" width="508" height="96" class="panel"/>
-
-  <image x="32" y="208" width="448" height="312" href="./web.svg"/>
 
   <g transform="translate(30,96)">
     <use href="#seg" x="0"   y="0" class="panel"/>
@@ -63,4 +61,6 @@
     <tspan x="56" y="976">•</tspan>
     <tspan x="256" y="976">Roteamento</tspan>
   </text>
+
+  <image x="32" y="208" width="448" height="312" href="web.svg"/>
 </svg>
