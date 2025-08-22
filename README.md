@@ -42,25 +42,34 @@
   <a href="https://www.github.com/gabrielmsilva00/plaintools">
     <img
       width="48.75%"
-      src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/plaintools&theme=transparent"
+      src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/plaintools"
     />
   </a>
   <a href="https://www.github.com/gabrielmsilva00/pureset">
     <img
       width="48.75%"
-      src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/pureset&theme=transparent"
+      src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/pureset"
     />
   </a>
   <a href="https://www.github.com/gabrielmsilva00/redes-neurais-mlp">
     <img
       width="48.75%"
-      src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/redes-neurais-mlp&theme=transparent"
+      src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/redes-neurais-mlp"
     />
   </a>
   <a href="https://www.github.com/gabrielmsilva00/meuvitae">
     <img
       width="48.75%"
-      src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/meuvitae&theme=transparent"
+      src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/meuvitae"
+    />
+  </a>
+</h1>
+<h1 align="center">Acadêmico</h1>
+<h1 align="center">
+  <a href="https://gabrielmsilva00.github.io/Redes-Neurais-MLP/">
+    <img
+      width="50%"
+      src="https://svg.bookmark.style/api?url=https://www.github.com/gabrielmsilva00/Redes-Neurais-MLP"
     />
   </a>
 </h1>
